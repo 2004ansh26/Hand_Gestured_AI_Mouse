@@ -1,9 +1,0 @@
-# Ignore everything
-*
-
-# But not these files...
-!.gitignore
-!README.md
-!Mouse_gestured/
-!Mouse_gestured/HandTrackingModule.py
-!Mouse_gestured/Mouse_gestured.py
